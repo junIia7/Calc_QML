@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>interface.qml</file>
+        <file>status.png</file>
+        <file>divide.png</file>
+        <file>eq.png</file>
+        <file>minus.png</file>
+        <file>multi.png</file>
+        <file>percent.png</file>
+        <file>plm.png</file>
+        <file>par.png</file>
+        <file>plus.png</file>
+        <file>OpenSans-Semibold.ttf</file>
+    </qresource>
+</RCC>
